@@ -1,0 +1,20 @@
+select which task to run:
+1:ShowChar
+2:BarChart
+you entered: 2
+Enter today's sales for store 1:
+you entered: 1000
+Enter today's sales for store 2:
+you entered: 1200
+Enter today's sales for store 3:
+you entered: 1800
+Enter today's sales for store 4:
+you entered: 800
+Enter today's sales for store 5:
+you entered: 1900
+SALES BAR CHART
+Store 1: **********
+Store 2: ************
+Store 3: ******************
+Store 4: ********
+Store 5: *******************
